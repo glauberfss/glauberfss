@@ -1,10 +1,15 @@
-### Oi, Glauber aqui :)
-Data Lover atuando em Fraud Prevention Analyst
+### Olá, Glauber aqui :)
+🚀 Apaixonado por dados e tecnologia, possuo habilidades em diversas ferramentas e linguagens, incluindo:
 
-● Data Analyst; ● Fraud Prevention Analyst;
-● Uso da linguagem Python para coleta e análise de dados;
-● Tableau;
-● Bancos de Dados - SQL;
+- 🐍 Python
+- 💽 SQL
+- 📦 GIT
+- 📊 Tableau
+- 🐧 Sistema Operacional Linux
+- 🔍 Power BI
+
+💡 Estou sempre em busca de desafios e oportunidades.
+🌱 Estou constantemente aprendendo e explorando novas tecnologias para aprimorar minhas habilidades e contribuir para projetos empolgantes.
 
 - 👨‍💻 Estudante de Engenharia de Software/Cinências de Dados
 - 📚 Apaixonado por **leituras**
