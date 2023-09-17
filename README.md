@@ -5,7 +5,7 @@
 - 💽 SQL
 - 📦 GIT
 - 📊 Tableau
-- 🐧 Sistema Operacional Linux
+- 🐧 Sistema Operacional Linux/Windows
 - 🔍 Power BI
 
 💡 Estou sempre em busca de desafios e oportunidades.
