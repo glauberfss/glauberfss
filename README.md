@@ -11,7 +11,7 @@
 💡 Estou sempre em busca de desafios e oportunidades.
 🌱 Estou constantemente aprendendo e explorando novas tecnologias para aprimorar minhas habilidades e contribuir para projetos empolgantes.
 
-- 👨‍💻 Estudante de Engenharia de Software/Cinências de Dados
+- 👨‍💻 Estudante de Engenharia de Software/Ciências de Dados
 - 📚 Apaixonado por **leituras**
 - 💻 Atualmente mais focado em:
 
