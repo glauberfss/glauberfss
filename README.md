@@ -6,10 +6,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+Glauber+aqui+%3A)" alt="Typing SVG" /></a>
 
-- 💬 Sobre mim: **
+- 💬 Sobre mim: 
   - Profissional com experiência em extração, tratamento, manipulação e análise de grandes volumes de dados;
   - Manipulação de informação no contexto de Big Data;
-  - Estudo de estatísticas, fundamentado em comportamentos, para detecção de fraudes, através de dados e estatísticas;**
+  - Estudo de estatísticas, fundamentado em comportamentos, para detecção de fraudes, através de dados e estatísticas.
 
 - 👨‍💻 Estudante de **Engenharia de Software/Ciências de Dados**
 - 📚 Apaixonado por **leituras**
@@ -27,6 +27,8 @@
 <a href="https://www.hackerrank.com/gabbe_mars" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gabbe_mars" height="30" width="40" /></a>
 
+
+
 ###
 
 <br clear="both">
@@ -34,3 +36,5 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
