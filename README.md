@@ -1,4 +1,4 @@
-### Olá, Glauber aqui :)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+Glauber+aqui+%3A)" alt="Typing SVG" /></a>
 🚀 Apaixonado por dados e tecnologia, possuo habilidades em diversas ferramentas e linguagens, incluindo:
 
 - 🐍 Python
