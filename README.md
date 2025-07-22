@@ -11,7 +11,7 @@
   - Manipulação de informação no contexto de Big Data;
   - Estudo de estatísticas, fundamentado em comportamentos, para detecção de fraudes, através de dados e estatísticas.
 
-- 👨‍💻 Estudante de **Engenharia de Software/Ciências de Dados**
+- 👨‍💻 Formado em **Engenharia de Software**
 - 📚 Apaixonado por **leituras**
 - 📫 Como entrar em contato comigo **gabbe.mars@gmail.com**
 
